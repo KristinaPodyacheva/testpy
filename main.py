@@ -1,4 +1,4 @@
-import re
+
 
 s = input("Введите строку")
 count = 0
